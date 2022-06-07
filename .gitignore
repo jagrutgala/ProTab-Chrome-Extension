@@ -16,6 +16,6 @@ thumb
 sketch
 
 ### build ###
-/public/dist/
+/dist
 
 # End of .gitignore
